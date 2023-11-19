@@ -1,4 +1,4 @@
-🧾TGPars
+🧾TGPars python setup.py -i
 Telegram spamer, inviter and parser
 ===================================
 <p align="center">
